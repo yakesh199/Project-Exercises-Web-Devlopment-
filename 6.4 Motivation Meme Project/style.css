@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(188, 104, 236);
+}
+.das{
+    border: 5px solid white;
+    width: 100%;
+}
+#diver{
+    color: white;
+    text-align: center;
+    width:50%;
+    margin-left:25% ;
+    margin-top: 100px;
+    font-family: "Libre Baskerville", serif;
+}
+h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+}
